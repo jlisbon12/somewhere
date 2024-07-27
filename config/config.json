@@ -3,7 +3,7 @@
     "password": "Trailblazer2024!",
     "clusterUrl": "trailblazer.z7qhd1z.mongodb.net",
     "database": "trailblazer",
-    "apiurl": "https://trailblazer-flame.vercel.app",
+    "apiurl": "https://super-panda-a3005d.netlify.app",
     "port": 3000,
     "imgBucket": "photos"
 }
