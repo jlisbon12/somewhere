@@ -53,8 +53,6 @@ export default function App() {
             })
             .catch((error) => {
               console.log(error);
-              const container = document.getElementById("container");
-              container.innerHTML = `<p>Something went wrong. Error message: ${error.message}</p>`;
             });
         });
       } else {
