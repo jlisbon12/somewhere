@@ -26,8 +26,7 @@ const allowedOrigins = [
   "http://localhost:8081",
   "https://trailblazergo.com",
   "https://trailblazer-flame.vercel.app",
-  "https://super-panda-a3005d.netlify.app",
-  "https://66a529b7091a370008e9b8a1--super-panda-a3005d.netlify.app",
+  "https://somewhere-lac.vercel.app",
 ];
 
 app.use(
